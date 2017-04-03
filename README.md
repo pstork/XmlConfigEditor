@@ -14,8 +14,14 @@ configuration files.
 Main Features
 -------------
 *Display ANY well formed XML file in a treeview representing element nodes and attributes
+
 *Edit element node and attribute values
+
 *Compare two similar XML files and highlights different elements and values
+
 *Display XML Remarks as Tooltips on the element nodes
+
 *Clone complete XML branches
+
 *Save Server specific config file (AutoSPInstaller specific)
+
