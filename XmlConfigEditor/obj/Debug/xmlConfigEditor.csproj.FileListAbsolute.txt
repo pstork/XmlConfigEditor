@@ -1,0 +1,27 @@
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\xmlConfigEditor.exe.config
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\Properties\Settings.settings
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\xmlConfigEditor.exe
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\xmlConfigEditor.pdb
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\xmlConfigEditor.Form1.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\xmlConfigEditor.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\xmlConfigEditor.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\xmlConfigEditor.exe
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\xmlConfigEditor.pdb
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\xmlConfigEditor.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\xmlConfigEditor.Form2.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\xmlConfigEditor\bin\Debug\xmlConfigEditor.exe.config
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.exe
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.pdb
+d:\Projects\XMLConfigEditor\xmlConfigEditor\bin\Debug\xmlConfigEditor.exe.config
+d:\Projects\XMLConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.exe
+d:\Projects\XMLConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.pdb
+d:\Projects\XMLConfigEditor\xmlConfigEditor\bin\Debug\Properties\Settings.settings
+d:\Projects\XMLConfigEditor\xmlConfigEditor\bin\Debug\Properties\Settings.Designer.cs
+d:\Projects\XMLConfigEditor\xmlConfigEditor\bin\Debug\xmlConfigEditor.exe
+d:\Projects\XMLConfigEditor\xmlConfigEditor\bin\Debug\xmlConfigEditor.pdb
+d:\Projects\XMLConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.csprojResolveAssemblyReference.cache
+d:\Projects\XMLConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.Form1.resources
+d:\Projects\XMLConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.Form2.resources
+d:\Projects\XMLConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.Properties.Resources.resources
+d:\Projects\XMLConfigEditor\xmlConfigEditor\obj\Debug\xmlConfigEditor.csproj.GenerateResource.Cache

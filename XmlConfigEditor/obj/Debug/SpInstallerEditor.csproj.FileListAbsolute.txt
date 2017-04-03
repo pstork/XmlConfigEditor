@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\SpInstallerEditor.exe.config
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\Properties\Settings.settings
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\SpInstallerEditor.exe
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\bin\Debug\SpInstallerEditor.pdb
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\SpInstallerEditor.Form1.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\SpInstallerEditor.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\SpInstallerEditor.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\SpInstallerEditor.exe
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\SpInstallerEditor.pdb
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\xmlConfigEditor\SpInstallerEditor\obj\Debug\SpInstallerEditor.csprojResolveAssemblyReference.cache
