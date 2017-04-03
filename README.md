@@ -1,6 +1,7 @@
 # XmlConfigEditor
 
 Project Description
+-------------------
 An editor that simplifies editing of XML Configuration files. It was originally developed for use with AutoSPInstaller, 
 but will work for any XML config file.
 
@@ -11,6 +12,7 @@ adapts to changes in the schema used by programs like AutoSPInstaller. This also
 configuration files.
 
 Main Features
+-------------
 *Display ANY well formed XML file in a treeview representing element nodes and attributes
 *Edit element node and attribute values
 *Compare two similar XML files and highlights different elements and values
